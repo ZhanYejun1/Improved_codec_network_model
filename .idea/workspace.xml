@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52a8a419-a51d-4f39-bacc-6b25f0ec9091" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nets/pspnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/nets/pspnet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pspnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/pspnet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629860643271</updated>
-      <workItem from="1629860645417" duration="1262000" />
+      <workItem from="1629860645417" duration="1399000" />
     </task>
     <servers />
   </component>
