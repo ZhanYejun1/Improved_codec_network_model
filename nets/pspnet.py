@@ -15,7 +15,7 @@ class Resnet(nn.Module):
     def __init__(self, dilate_scale=8, pretrained=True):
         super(Resnet, self).__init__()
         from functools import partial
-        model = resnet50(pretrained)
+        model = resnet50(pretrained) 
 
         #--------------------------------------------------------------------------------------------#
         #   根据下采样因子修改卷积的步长与膨胀系数
